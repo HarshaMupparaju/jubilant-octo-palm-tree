@@ -4450,7 +4450,7 @@ readers do not read off random characters that represent icons */
   font-weight: 900; }
 
   /* Button */
-  .btn {
+  .newnote {
     background-color: #ddd;
     border: none;
     color: black;
@@ -4465,7 +4465,7 @@ readers do not read off random characters that represent icons */
     left:30px;
   }
   
-  .btn:hover {
+  .newnote:hover {
     background-color: #17a2b8;
     color: white;
   }
